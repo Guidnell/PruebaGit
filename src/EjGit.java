@@ -5,6 +5,7 @@ public class EjGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		String nombre = "Guidnell Pérez";
+		System.out.println(nombre);
 	}
 
 }
